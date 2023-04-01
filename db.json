@@ -1,0 +1,27 @@
+{
+    "play":[
+        {
+            "id" : 1,
+            "poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+            "title" : "Doctor Strange in the Multiverse of Madness",
+            "director" : "Sam Raimi",
+            "year" : 2022,
+            "genre" : "Action",
+            "IMDB_Rating" : 6.8,
+            "ticket" : 200
+        }
+  ],
+
+  "leaderboard": [
+    {
+      "id": 1,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMXlw-hbiLoNgY5FUBdJLoADwJ39RtdL-tw&usqp=CAU",
+      "title": "Thor",
+      "director": "Francis Lawrence",
+      "year": 2019,
+      "genre": "Horror",
+      "IMDB_Rating": 8,
+      "ticket": 700
+    }
+  ]
+}
